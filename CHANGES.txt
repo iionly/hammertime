@@ -1,0 +1,10 @@
+Changelog
+=========
+
+2.3.0
+-----
+
+* Requires Elgg 2.3.0 at minimum,
+* Initial release,
+* Supports swipe touch gestures right and left to load previous or next page respectively on Elgg item lists (that have pagination),
+* Supports swipe touch gestures right and left to load previous or next image on Tidypics full image view pages.
